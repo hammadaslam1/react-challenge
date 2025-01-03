@@ -1,0 +1,22 @@
+[
+  {
+    "answer": "React is a JavaScript library that builds user interfaces, especially single-page applications, using reusable components. It efficiently updates and renders the UI based on changes in states.",
+    "questionText": "What is React?"
+  },
+  {
+    "answer": "Create React App is a tool to quickly set up a React project with a pre-configured development environment.",
+    "questionText": "What is create-react-app?"
+  },
+  {
+    "answer": "No, because there is no such complex state management.",
+    "questionText": "Does this project need to use Redux, if yes then why?"
+  },
+  {
+    "answer": "CSR renders content in the browser, offering a slower initial load but faster interactions. SSR renders HTML on the server, providing a faster load and better SEO.",
+    "questionText": "What is the difference between CSR and SSR"
+  },
+  {
+    "answer": "I'm a Fresh IT Graduate with 2 internships as MERN Stack Developer. Currently, I'm serving as a React Developer at InvoByte in Lahore.",
+    "questionText": "How many years of experience do you have?"
+  }
+]
